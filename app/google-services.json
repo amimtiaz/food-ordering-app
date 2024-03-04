@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127053602127",
+    "project_id": "food-ordering-app-de099",
+    "storage_bucket": "food-ordering-app-de099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127053602127:android:22eb9149da23a7b13cf93a",
+        "android_client_info": {
+          "package_name": "com.imtiaz_acedamy.food_ordering_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdc5pDF07AbqmTkliOlO_qwCc9ULSVidI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
